@@ -4,3 +4,5 @@ The following topics have been covered :
 2- Sorting and Searching algorithms
 3- Graph algorithms (dfs and bfs along with examples)
 4- Greedy alg with examples and dsu
+5- Range Queries
+6- Flows and Tries
